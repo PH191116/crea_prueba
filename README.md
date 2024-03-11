@@ -1,0 +1,2 @@
+# Se agrego la dependencia de Log4J y se hizo su respectiva implementacion en el controller
+# El hola mundo se refleja al acceder al siguiente endpoint creado en la clase HolaMundoController: http://localhost:8080/crea_prueba/hola_mundo
