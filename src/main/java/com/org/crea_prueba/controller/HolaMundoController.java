@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RequestMapping("/crea_prueba")
 @RestController
-public class HolaMundo {
-    private Logger logger = Logger.getLogger(HolaMundo.class);
+public class HolaMundoController {
+    private Logger logger = Logger.getLogger(HolaMundoController.class);
 
     @GetMapping("/hola_mundo")
     public String imprimir(){
